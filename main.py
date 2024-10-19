@@ -5,4 +5,4 @@ teachers = pd.DataFrame({
     "Turi": ["Maruza", "Maruza", "Amaliy","Amaliy","Amaliy","Amaliy, Maruza","Maruza", "Amaliy", "Maruza" ]           
 })
 print(teachers) #sss
-teachers.to_excel("teachers.xlsx")
+teachers.to_excel("teachers.xlsx") #aaaa
