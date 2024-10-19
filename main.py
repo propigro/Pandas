@@ -5,3 +5,4 @@ teachers = pd.DataFrame({
     "Turi": ["Maruza", "Maruza", "Amaliy","Amaliy","Amaliy","Amaliy, Maruza","Maruza", "Amaliy", "Maruza" ]           
 })
 print(teachers)
+teachers.to_excel("teachers.xlsx")
