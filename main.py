@@ -4,5 +4,5 @@ teachers = pd.DataFrame({
     "Fan": ["Suniy intlekt asoslari","Kompyuterni tashkil etish","Kibrxavsizlik asoslari", "Kompyuterni tashkil etish", "Suniy intlekt asoslari", "Eliktronika sixemalar", "Malumotlar tuz va algo", "Malumotlar tuz va algo", "Kibrxavsizlik asoslari"],
     "Turi": ["Maruza", "Maruza", "Amaliy","Amaliy","Amaliy","Amaliy, Maruza","Maruza", "Amaliy", "Maruza" ]           
 })
-print(teachers) #sss
-teachers.to_excel("teachers.xlsx") #aaaa
+print(teachers) 
+teachers.to_excel("teachers.xlsx")
